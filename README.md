@@ -1,5 +1,5 @@
 # ml_appl_model_train
-Machine Learning Application - Data Visualization and Training of Model and Download Trained Model
+<h2>Machine Learning Application - Data Visualization and Training of Model and Download Trained Model</h2>
 
 
 Link For Video---
